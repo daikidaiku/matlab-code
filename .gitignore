@@ -34,3 +34,6 @@ codegen/
 
 # プロジェクトファイルを無視
 Projects/
+
+# 実験データを無視
+Data/
